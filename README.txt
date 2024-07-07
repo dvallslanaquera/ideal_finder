@@ -1,3 +1,4 @@
+This is a script designed to identify the top four functions that best match a given training function using the Least Squares method in an computationally efficient way.  
 
 -- To run Docker
 Open Docker Desktop. Then in your terminal enter: 
